@@ -1,7 +1,8 @@
 import java.util.*;
 
 public class yapCycleDetection {
-
+// YAPProblem3
+// Write a java program that will determine if a graph has a cycle or not
     private int yapNumVertices;
     private LinkedList<Integer> yapAdjacencyList[];
 
